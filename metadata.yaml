@@ -1,0 +1,36 @@
+_repo: Across-Asia-on-a-Bicycle--13-The-Journey-of-Two-American-Students-from-Constantinople-to-Peki__31111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Sachtleben, William Lewis
+    deathdate: 1953
+    gutenberg_agent_id: '35008'
+    url: http://www.gutenberg.org/2009/agents/35008
+    wikipedia: http://en.wikipedia.org/wiki/William_Sachtleben
+  - agent_name: Allen, Thomas Gaskell
+    birthdate: 1868
+    gutenberg_agent_id: '35007'
+    url: http://www.gutenberg.org/2009/agents/35007
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2010-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31111'
+  lccn: '04017315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Allen, Thomas Gaskell -- Travel -- Asia'
+- !lcsh 'Asia -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Bicycle touring -- Asia'
+- !lcsh 'Sachtleben, William Lewis -- Travel -- Asia'
+title: "Across Asia on a Bicycle\r\nThe Journey of Two American Students from Constantinople\
+  \ to Peking"
+url: http://www.gutenberg.org/ebooks/31111
